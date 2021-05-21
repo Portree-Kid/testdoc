@@ -1,0 +1,12 @@
+extends: default
+base:
+  font:
+    color: #333333
+    family: Times-Roman
+    size: 12
+table:
+  background-color: #ff11ff
+  caption-side: bottom
+  border-style: solid
+  border-width: 3
+  border-color: #dddddd
